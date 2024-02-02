@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/H7eMjvTj055b1TFK5rjWV1T1Ha2nS9xUmEauUKqVN6Rwj2bq3cTBBxlJx8QTMzIP6IvxUEMCoKwAHdisD9jQ==",
+  "success": true,
+  "projectFilePath": "C:\\PERSONAL\\PROJECTS\\New folder\\ScreenDesigner\\ScreeDesigner.API\\ScreeDesigner.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0-preview.7.23375.9\\microsoft.aspnetcore.openapi.8.0.0-preview.7.23375.9.nupkg.sha512",
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\emine.bakir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
