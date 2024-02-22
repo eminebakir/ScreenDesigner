@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreeDesigner.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae83f8b5466090eb3c1e37c6aff66b425cbbe65")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreeDesigner.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreeDesigner.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
